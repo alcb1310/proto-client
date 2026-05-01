@@ -1,3 +1,5 @@
+<img width="1134" height="425" alt="protobuf" src="https://github.com/user-attachments/assets/ec4f99e0-3135-4a88-921d-7fd7b66ff15c" />
+
 Welcome to your new TanStack Start app! 
 
 # Getting Started
