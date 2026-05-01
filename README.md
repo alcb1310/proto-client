@@ -28,7 +28,7 @@ In order to follow this tutorial you will need the following:
 To run this application:
 
 ```bash
-git clone --recures-submodules https://github.com/alcb1310/proto-client.git
+git clone --recurse-submodules https://github.com/alcb1310/proto-client.git
 cd proto-client
 pnpm install
 pnpm dev
