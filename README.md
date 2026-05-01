@@ -7,6 +7,21 @@ deserialize them to represent them in this app. We will only add one endpoint he
 
 ## Technologies Used
 
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- Tanstack Router
+- ![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+- Protobuf
+
+## Requirements
+
+In order to follow this tutorial you will need the following:
+
+- [proto-server](https://github.com/alcb1310/proto-server)
+- [Protobuf compiler](https://github.com/protocolbuffers/protobuf/releases)
+
 
 ## Getting Started
 
