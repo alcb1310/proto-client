@@ -10,7 +10,7 @@ rm -rf "${OUT_DIR}"
 mkdir -p "${OUT_DIR}"
 
 protoc \
-    --plugin="${PROTOC_GEN_PATH}" \
+    --plugin="protoc-gen-ts=${PROTOC_GEN_PATH}" \
     --ts_opt=esModuleInterop=true \
     --ts_out="${OUT_DIR}" \
     --proto_path="${SRC_DIR}" \
